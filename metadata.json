@@ -1,0 +1,6 @@
+{
+  "name": "GDG Nexus",
+  "description": "Sleek and high-performance auto-complete search engine with accent-insensitive normalization, mid-word matching, and interactive ambient cursor glow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
