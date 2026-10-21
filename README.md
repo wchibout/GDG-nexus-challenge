@@ -1,6 +1,6 @@
 # GDG Nexus
 
-GDG Nexus is a fast, accessible directory for exploring countries, developer communities, technology hubs, and research labs. It was built for the GDG Algiers challenge with a focus on clear presentation, forgiving search, and a polished browsing experience.
+GDG Nexus is a fast, accessible directory for exploring countries, developer communities, technology hubs, and research labs. It was built by **Chibout Wahb** for the GDG Algiers challenge, with a focus on clear presentation, forgiving search, and a polished browsing experience.
 
 ## Live Demo
 
